@@ -10,4 +10,4 @@ Se requiere realizar un servicio web para un registro y un inicio de sesión. El
 
 La siguiente imagen muestra cómo se estructuran las rutas en el proyecto para manejar el registro y la autenticación de usuarios:
 
-![El servicio web quedó exitoso y muestra cómo se realiza el registro y la autenticación](https://i.ibb.co/4TJ2w20/Screenshot-20230804-153124.png)
+<a href="https://ibb.co/4TJ2w20"><img src="https://i.ibb.co/1qbMYM4/senahoy123.png" alt="senahoy123" border="0"></a>
