@@ -1,0 +1,25 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar carpetas de logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar sistemas operativos específicos
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de compilación
+dist/
+build/
+
+# Ignorar archivos de configuración del editor/IDE
+.vscode/
+.idea/
+*.swp
